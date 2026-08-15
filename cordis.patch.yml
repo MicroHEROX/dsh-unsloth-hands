@@ -2,6 +2,14 @@
 # The API key is intentionally NOT shipped — create one in Unsloth
 # (Settings → API) and set it in your profile's cordis.patch.yml
 # (`config.apiKey`) or via the UNSLOTH_API_KEY environment variable.
+# Override this row by id WITHOUT `insert` (an id+name+config patch is an
+# override; a same-id `insert` crashes the loader with "duplicate loader
+# entry id"):
+#   - id: unsloth-tool
+#     name: 'dsh-unsloth-hands'
+#     config:
+#       baseURL: 'http://127.0.0.1:8888'
+#       apiKey: 'sk-unsloth-xxxx'
 - insert:
     - id: unsloth-tool
       name: 'dsh-unsloth-hands'
