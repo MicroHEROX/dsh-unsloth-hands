@@ -1,0 +1,7 @@
+# dsh-unsloth-hands bundle layer: registers the unsloth-tool plugin row.
+# The API key is intentionally NOT shipped — create one in Unsloth
+# (Settings → API) and set it in your profile's cordis.patch.yml
+# (`config.apiKey`) or via the UNSLOTH_API_KEY environment variable.
+- insert:
+    - id: unsloth-tool
+      name: 'dsh-unsloth-hands'
