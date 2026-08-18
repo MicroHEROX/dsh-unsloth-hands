@@ -9,7 +9,7 @@
 [![version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/MicroHEROX/dsh-unsloth-hands/releases)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![node](https://img.shields.io/badge/node-%3E%3D20-339933)](https://nodejs.org)
-[![harness](https://img.shields.io/badge/DeepSeek%20Harness-0.1.0--rc-4D6BFE)](https://github.com/deepseek-ai/deepseek-harness)
+[![harness](https://img.shields.io/badge/DeepSeek%20Harness-0.1.0--rc.7-4D6BFE)](https://github.com/deepseek-ai/deepseek-harness)
 [![unsloth](https://img.shields.io/badge/Unsloth%20Desktop-any%20recent-F7B500)](https://unsloth.ai)
 
 </div>
@@ -197,7 +197,7 @@ Unsloth 要求每次请求携带有效 key。去 **Settings → API** 建一个�
 | 组件 | 版本 |
 | --- | --- |
 | 本插件 | `0.1.0` |
-| DeepSeek Harness | `0.1.0-rc` 系列（针对 npm `@deepseek-ai/*` `0.1.0-rc.6` 测试） |
+| DeepSeek Harness | `0.1.0-rc` 系列（针对 npm `@deepseek-ai/*` `0.1.0-rc.7` 测试） |
 | Node.js | ≥ 20 |
 | Unsloth Desktop | 任意暴露外部 API（`/v1/chat/completions`）的版本 |
 
