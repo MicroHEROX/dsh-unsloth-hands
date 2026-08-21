@@ -9,7 +9,7 @@
 [![version](https://img.shields.io/badge/version-0.1.0-blue)](https://github.com/MicroHEROX/dsh-unsloth-hands/releases)
 [![license](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![node](https://img.shields.io/badge/node-%3E%3D20-339933)](https://nodejs.org)
-[![harness](https://img.shields.io/badge/DeepSeek%20Harness-0.1.0--rc.8-4D6BFE)](https://github.com/deepseek-ai/deepseek-harness)
+[![harness](https://img.shields.io/badge/DeepSeek%20Harness-0.1.1--rc.1-4D6BFE)](https://github.com/deepseek-ai/deepseek-harness)
 [![unsloth](https://img.shields.io/badge/Unsloth%20Desktop-any%20recent-F7B500)](https://unsloth.ai)
 
 </div>
@@ -197,7 +197,7 @@ Unsloth requires a valid key on every request. Create one in **Settings → API*
 | Component | Version |
 | --- | --- |
 | This plugin | `0.1.0` |
-| DeepSeek Harness | `0.1.0-rc` series (tested against npm `@deepseek-ai/*` `0.1.0-rc.8`) |
+| DeepSeek Harness | `0.1.0-rc` series (tested against npm `@deepseek-ai/*` `0.1.0-rc.8` / `0.1.1-rc.1`) |
 | Node.js | ≥ 20 |
 | Unsloth Desktop | any version exposing the external API (`/v1/chat/completions`) |
 
